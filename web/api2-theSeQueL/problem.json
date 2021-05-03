@@ -1,0 +1,11 @@
+{
+  "name": "API 2 : The SeQueL",
+  "category": "Web",
+  "description": "I just made my own SCP collection website. What do you think?",
+  "score" : 150,
+  "hints": ["Maybe you need to encode your query", "If you are getting stuck on mismatched types, maybe look at what the other items are named / what their values are"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

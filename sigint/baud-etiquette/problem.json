@@ -1,0 +1,14 @@
+{
+  "name": "Baud Etiquette",
+  "category": "Sigint",
+  "description": "I was on the 6m band (50.345 MHz to be exact) when the person I was chatting with was interrupted by a strange sound. It sounded something like this:\n\n<img alt=\"leedle leedle leddle lee\" src=\"https://media.giphy.com/media/eCgzPvuU3ZqX6/giphy.gif\"/>\n\nSomeone definitely wasn't using the right mode. See if you can figure out what they transmitted.\n\n{{url_for(\"signal.bin.zip\")}} (sample rate 1.8 MHz)",
+  "score": 300,
+  "hints": [
+    "Due to character set restrictions, this flag will be in a slightly different format.",
+    "Here's an {{url_for(\"sound.wav\", display=\"audio recording\")}} of a different signal in the same mode... maybe you'll recognize it."
+  ],
+  "walkthrough": "N/A",
+  "author": "Matthew Barry",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}

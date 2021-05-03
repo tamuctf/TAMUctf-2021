@@ -1,0 +1,11 @@
+{
+  "name": "Dubious",
+  "category": "Reversing",
+  "description": "You completed your angr management course, but you're a little dubious about whether it was effective.\n\nIt definitely wasn't for this. Pass all checks to get the flag. <a href='http://tamuctf.com/static-files/check_flag.so'>dubious</a>\n\nEDIT: Please disregard the check_flag function; an old version of the binary was released, but does not impact a majority of the challenge.",
+  "score": 500,
+  "hints": ["I found this binary in an old router."],
+  "walkthrough": "N/A",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}

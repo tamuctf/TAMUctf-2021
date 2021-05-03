@@ -1,0 +1,11 @@
+{
+  "name": "Basic RSA",
+  "category": "Crypto",
+  "description": "To: Dr Rivest\nCC: Dr Shamir\n\nWe found this code and these numbers. {{url_for('data.txt')}}\nMean anything to you?\n\nSincerely\n- Dr Adleman",
+  "score" : 100,
+  "hints": ["The names are very specific", "Maybe you don't have to break the number to decrypt the challenge"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

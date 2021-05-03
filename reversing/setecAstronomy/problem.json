@@ -1,0 +1,11 @@
+{
+  "name": "setecAstronomy",
+  "category": "Reversing",
+  "description": "After a top NSA scientist was found murdered, we searched his office and found a black box with the output still on the display. We have no idea what the code was, but we were able to find a schematic of the black box in his office and turn it into an HDL file. Figure out what the input was. You are alone on this. Remember: Trust No One.\n\n<strong>Discovered Output</strong>\n<code>11001010011011101100110001011000111110101010111000001100011101101111100001111010001000100110000011100100100110001110000001111101</code>\n {{ url_for('BlackBox.hdl') }}",
+  "score" : 200,
+  "hints": ["Encryption Scheme: ISO-8859-1"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

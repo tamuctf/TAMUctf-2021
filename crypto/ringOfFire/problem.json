@@ -1,0 +1,11 @@
+{
+  "name": "Ring Of Fire",
+  "category": "Crypto",
+  "description": "For none and none, there is always none\nFor none and one, there can be only one\nFor one and one, there is nothing but none\n{{url_for('codeFile.txt')}}\n\nSometimes, I sing to myself\n<strong>Love is a burning thing\nAnd it makes a firery ring\nBound by wild desire\nI fell in to a ring of fire</strong>",
+  "score" : 100,
+  "hints": ["The Man In Black", "Why would I give you the plaintext AND some binary code?"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

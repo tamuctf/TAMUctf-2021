@@ -1,0 +1,11 @@
+version: '3'
+services:
+  handler:
+    build: ./chrome-handler
+    links:
+      - capture
+    ports:
+    - 8000:8000
+
+  capture:
+    build: ./chrome-capture

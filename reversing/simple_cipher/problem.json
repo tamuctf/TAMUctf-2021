@@ -1,0 +1,11 @@
+{
+  "name": "simple_cipher",
+  "category": "Reversing",
+  "description": "We have a flag encrypted using this program. Can you figure out what it is? {{url_for('simple_cipher')}} {{url_for('flag.enc')}}",
+  "score" : 150,
+  "hints": [""],
+  "walkthrough": "check our github or something",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

@@ -1,0 +1,17 @@
+[package]
+name = "pwgen"
+version = "0.1.0"
+authors = ["Teddy Heinen <teddy@heinen.dev>"]
+edition = "2018"
+
+
+[[bin]]
+name = "check"
+path = "src/check.rs"
+
+[[bin]]
+name = "pwgen"
+path = "src/main.rs"
+
+
+[dependencies]

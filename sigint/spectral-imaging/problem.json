@@ -1,0 +1,11 @@
+{
+  "name": "Spectral Imaging",
+  "category": "Sigint",
+  "description": "Some things are meant to be heard but not seen. This sounds like it's meant to be seen, not heard.\n{{url_for('audio.wav')}}",
+  "score": 100,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Matthew Barry",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}

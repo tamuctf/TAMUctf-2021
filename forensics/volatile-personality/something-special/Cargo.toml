@@ -1,0 +1,12 @@
+[package]
+name = "something-special"
+version = "0.1.0"
+authors = ["Reggie Redman <reggie@redman.local>"]
+edition = "2018"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+hex-literal = "0.3.1"
+linux-kernel-module = { path = ".." }

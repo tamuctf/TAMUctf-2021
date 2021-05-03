@@ -1,0 +1,11 @@
+{
+  "name": "Beryllium",
+  "category": "Web",
+  "description": "We set up a little box for you to run HTML code on. Feel free to access <a href='http://beryllium.tamuctf.com'>beryllium</a>.",
+  "score" : 100,
+  "hints": ["You can't request any external webpages. Maybe we've hidden something in this one..."],
+  "walkthrough": "check our github or something",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

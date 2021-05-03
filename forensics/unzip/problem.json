@@ -1,0 +1,12 @@
+
+{
+  "name": "Unzip",
+  "category": "Forensics",
+  "description": "Hey, can you unzip this for me? {{url_for('chall.zip')}}",
+  "score" : 100,
+  "hints": [""],
+  "walkthrough": "check our github or something",
+  "author": "Matthew Le",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delfi",
+  "category": "Web?",
+  "description": "We found a strange webserver: <a href='http://delfi.tamuctf.com'>delfi</a>. Here's the source: {{url_for('src/main.rs')}}",
+  "score" : 200,
+  "hints": ["The oracle at delfi can include their own thoughts, too!"],
+  "walkthrough": "check our github or something",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

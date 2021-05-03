@@ -1,0 +1,12 @@
+{
+  "name": "Meet Me Under the Arch",
+  "category": "Pwn",
+  "description": "The people who wrote this binary are simply mocking us with the simplicity of the vulnerability present in this binary, but we can't exploit the remote! It seems to be running riscv64 instead.\n\nCan you exploit the remote based off the vulnerability present in this binary? <a href='https://tamuctf.com/static-files/meet-me-under-the-arch.aarch64'>meet-me-under-the-arch</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername meet-me-under-the-arch -quiet</code>",
+  "score" : 250,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

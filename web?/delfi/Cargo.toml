@@ -1,0 +1,25 @@
+[package]
+name = "delfi"
+version = "0.1.0"
+authors = ["Matthew Barry <komputerwiz.matt@gmail.com>", "Addison Crump <addisoncrump@tamu.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "get_flag"
+path = "src/get_flag.rs"
+
+[[bin]]
+name = "delfi"
+path = "src/main.rs"
+
+[dependencies]
+futures = "0.3"
+hyper = "0.13"
+nix = "0.19"
+pwd = "1.3"
+serde = "1.0"
+serde_derive = "1.0"
+tokio = { version = "0.2", features = ["full"] }
+warp = "0.2"

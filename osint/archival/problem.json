@@ -1,0 +1,11 @@
+{
+  "name": "Archival",
+  "category": "OSINT",
+  "description": "I can't remember the flag... it used to be on our website but when we updated it the flag got lost in the process. Since nothing ever gets deleted on the internet it should be safe, but how? ",
+  "score" : 50,
+  "hints": [""],
+  "walkthrough": "check our github or something",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

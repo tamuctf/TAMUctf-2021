@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="col d-flex justify-content-center">
+	<div class="card" style="width: 18rem;">
+	  <div class="card-body">
+	  	We had to restrict usage of our file sharing application because some people were abusing it.  If you're authorized, go get the password from your boss!  
+		<form method="POST">
+		  <div class="form-group">
+		    <input type="password" class="form-control" name="password" id="password" placeholder="Password">
+		  </div>
+		  <button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+	  </div>
+	</div>
+</div>
+{% endblock %}

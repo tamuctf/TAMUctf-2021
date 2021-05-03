@@ -1,0 +1,12 @@
+{
+  "name": "Ciphper",
+  "category": "Crypto",
+  "description": "Background story: this code was once used on a REAL site to encrypt REAL data. Thankfully, this code is no longer being used and has not for a long time.\n\nA long time ago, one of the sites I was building needed to store some some potentially sensitive data. I did not know how to use any proper encryption techniques, so I wrote my own symmetric {{url_for(\"crypto.php\", display=\"cipher\")}}.\n\nThe encrypted content in {{url_for(\"output.bin\")}} is a well-known, olde English quote in lowercase ASCII alphabetic characters. No punctuation; just letters and spaces.\n\nThe flag is key to understanding this message.",
+  "score" : 100,
+  "hints": ["The first 6 characters of the flag are <code>gigem{</code>."],
+  "walkthrough": "N/A",
+  "author": "Matthew Barry",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

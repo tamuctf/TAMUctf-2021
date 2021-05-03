@@ -1,0 +1,12 @@
+{
+  "name": "Shellcode Golf",
+  "category": "Pwn",
+  "description": "I'll execute any shellcode you give me, but only 11 bytes of it. I bet you can't get the flag!\n{{url_for('shellcode-golf.c')}}\n<a href='http://tamuctf.com/static-files/shellcode-golf'>shellcode-golf</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername shellcode-golf -quiet</code>",
+  "score" : 250,
+  "hints": ["32-bit operands have smaller instructions."],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

@@ -1,0 +1,9 @@
+2
+mmap
+os
+
+f = os.open("flag.txt", os.O_RDONLY)
+print(mmap.mmap(f, 0, prot=mmap.PROT_READ)[:].decode('ascii'))
+
+
+.

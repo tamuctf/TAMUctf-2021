@@ -1,0 +1,12 @@
+{
+  "name": "Pancake",
+  "category": "Pwn",
+  "description": "Attack this binary to get the flag!\n<a href='https://tamuctf.com/static-files/pancake'>pancake</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername pancake -quiet</code>",
+  "score" : 100,
+  "hints": ["Set the variable to the correct value to get the flag."],
+  "walkthrough": "N/A",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

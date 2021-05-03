@@ -1,0 +1,12 @@
+{
+  "name": "Helpful Debugger",
+  "category": "Pwn",
+  "description": "Hey, go ahead and send that binary you were looking at over me and wait for the functions to come back. You should be able to use <a href='https://tamuctf.com/static-files/my-special-gdb'>my gdb</a>; I configured the build for gdb to better handle go binaries.\n\n<code>openssl s_client -connect tamuctf.com:443 -servername helpful-debugger -quiet</code>",
+  "score" : 250,
+  "hints": ["No source code modifications were made to this gdb build."],
+  "walkthrough": "N/A",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

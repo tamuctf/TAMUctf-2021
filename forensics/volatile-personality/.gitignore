@@ -1,0 +1,7 @@
+*.lime
+*.lime.gz
+Ubuntu2004.zip
+target/
+extracted/
+
+*.lkm

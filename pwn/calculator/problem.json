@@ -1,0 +1,12 @@
+{
+  "name": "Calculator",
+  "category": "Pwn",
+  "description": "Hey, I made this JIT compiled calculator! Could you take a look at it and see if it's vulnerable? I left a flag on the server as a reward.\n<a href='http://tamuctf.com/static-files/calculator'>calculator</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername calculator -quiet</code>",
+  "score" : 250,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

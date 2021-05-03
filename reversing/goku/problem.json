@@ -1,0 +1,11 @@
+{
+  "name": "Goku",
+  "category": "Reversing",
+  "description": "Goku needs our help.\nBefore he passed out he gave us a flash drive with an executable file that he says is necessary to stopping Vegeta.\nCan you reverse it and get the flag? <a href='https://tamuctf.com/static-files/goku'>goku</a>",
+  "score" : 150,
+  "hints": ["The name of the challenge may indicate a language used"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

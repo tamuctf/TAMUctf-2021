@@ -1,0 +1,12 @@
+{
+  "name": "Lottery",
+  "category": "Pwn",
+  "description": "Attack this binary and get the flag!\n<a href='http://tamuctf.com/static-files/lottery'>lottery</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername lottery -quiet</code>",
+  "score" : 200,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

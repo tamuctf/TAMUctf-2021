@@ -1,0 +1,11 @@
+{
+  "name": "Volatile Personality",
+  "category": "Forensics",
+  "description": "We successfully exploited a target, but the IDS detected us! The only thing we got was this memory snapshot; think you can extract the flag from it? <a href='http://tamuctf.com/static-files/mem.lime.zz'>mem.lime.zz</a>",
+  "score" : 500,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}

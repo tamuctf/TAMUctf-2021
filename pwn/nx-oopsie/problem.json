@@ -1,0 +1,12 @@
+{
+  "name": "NX Oopsie",
+  "category": "Pwn",
+  "description": "Attack this binary and get the flag!\n<a href='https://tamuctf.com/static-files/nx-oopsie'>nx-oopsie</a>.\n<code>openssl s_client -connect tamuctf.com:443 -servername nx-oopsie -quiet</code>",
+  "score" : 100,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Addison Crump",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

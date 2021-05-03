@@ -1,0 +1,12 @@
+{
+  "name": "Shellcode Golf 2",
+  "category": "Pwn",
+  "description": "Shellcode harder. Only 6 bytes of it, this time.\n{{url_for('shellcode-golf.c')}}\n<a href='http://tamuctf.com/static-files/shellcode-golf-2'>shellcode-golf-2</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername shellcode-golf-2 -quiet</code>",
+  "score" : 400,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

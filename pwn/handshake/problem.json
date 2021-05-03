@@ -1,0 +1,12 @@
+{
+  "name": "Handshake",
+  "category": "Pwn",
+  "description": "Attack this binary and get the flag!\n<a href='http://tamuctf.com/static-files/handshake'>handshake</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername handshake -quiet</code>",
+  "score" : 150,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

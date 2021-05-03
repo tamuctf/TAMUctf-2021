@@ -1,0 +1,12 @@
+{
+  "name": "leaky",
+  "category": "Pwn",
+  "description": "Attack this binary and get the flag!\n<a href='http://tamuctf.com/static-files/leaky'>leaky</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername leaky -quiet</code>",
+  "score" : 250,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

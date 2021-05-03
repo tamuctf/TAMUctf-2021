@@ -1,0 +1,12 @@
+{
+  "name": "pybox",
+  "category": "Sandbox",
+  "description": "We spun up a server for you to execute your python code! For security reasons, we've disabled a few syscalls, but you can do all the computation you'd like!\n{{url_for('restricted_python/src/main.rs')}}\n<code>openssl s_client -connect tamuctf.com:443 -servername pybox -quiet</code>",
+  "score" : 150,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

@@ -1,0 +1,12 @@
+{
+  "name": "pwgen",
+  "category": "Crypto",
+  "description": "We're trying to figure out the current password of REDACTED. We have reason to believe that they generated a set of passwords at the same time using a custom password generation program and that their previous password was <code>ElxFr9)F</code>. Can you figure out their current password?\n{{url_for('src/main.rs')}}\n<code>openssl s_client -connect tamuctf.com:443 -servername pwgen -quiet</code>",
+  "score" : 200,
+  "hints": [],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

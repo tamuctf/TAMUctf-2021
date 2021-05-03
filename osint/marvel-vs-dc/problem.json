@@ -1,0 +1,11 @@
+{
+  "name": "Marvel vs DC",
+  "category": "OSINT",
+  "description": "Marvel or DC?\n This young concept artist attended the Cleveland Institute of Art and has quite the fan base after working on several Marvel movies, notably Avengers Endgame and Black Panther.\nYou are interested in his drawing techniques so you attend an art expo to learn more, can you find the flag? \n",
+  "score" : 250,
+  "hints": [""],
+  "walkthrough": "check our github or something",
+  "author": "Camryn Ochs",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

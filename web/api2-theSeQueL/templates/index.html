@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>API 2 : The SeQueL</title>
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+
+<body style="background-color:grey;font-family:times">
+    <div align="center">
+        {{ range .Cards }}
+        <div class="card" style="width:32vw; margin-top:4vh; margin-bottom: 2vh">
+        <img class="card-img-top" src="data:image/png; base64,{{ .Image }}" alt="Card image">
+            <div class="card-body">
+                <h3 class="card-title">Codename : {{ .Codename }}</h3>
+                <div class="card-text">ID : {{ .Id }}</div>
+                <div class="card-text">SCP Containment : {{ .Containment }}</div>
+                <div class="card-text">{{ .Description }}</div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</body>
+</html>

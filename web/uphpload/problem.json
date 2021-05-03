@@ -1,0 +1,12 @@
+{
+  "name": "uphpload",
+  "category": "Web",
+  "description": "I made a website to collect reaction images, feel free to upload some!",
+  "score" : 100,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Matthew Le",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

@@ -1,0 +1,12 @@
+{
+  "name": "TicTacToe",
+  "category": "Pwn",
+  "description": "Hey, I made a tic tac toe game! If you can beat me enough times I'll give you a flag.\n<a href='http://tamuctf.com/static-files/tictactoe'>tictactoe</a>\n<code>openssl s_client -connect tamuctf.com:443 -servername tictactoe -quiet</code>",
+  "score" : 150,
+  "hints": [""],
+  "walkthrough": "N/A",
+  "author": "Teddy Heinen",
+  "organization": "TAMUctf",
+  "event": "TAMUctf"
+}
+

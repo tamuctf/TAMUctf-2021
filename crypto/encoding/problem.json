@@ -1,0 +1,11 @@
+{
+  "name": "Encoding",
+  "category": "Crypto",
+  "description": "This is literally the flag but obfuscated through tons of different encoding schemes. {{url_for('data.txt')}}",
+  "score" : 100,
+  "hints": ["Try use an online tool like CyberChef"],
+  "walkthrough": "check our github or something",
+  "author": "Glenn Fitzpatrick",
+  "organization": "TAMUctf",
+  "event": "TAMUctf 2021"
+}

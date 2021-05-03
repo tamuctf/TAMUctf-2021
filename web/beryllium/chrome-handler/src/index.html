@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Beryllium</title>
+    <script>
+        function load_render() {
+            document.getElementById("render").src = document.location.href + btoa(document.getElementById("code").value);
+            return false;
+        }
+    </script>
+    <style>
+        textarea {
+            width: 100%;
+            height: 40%;
+        }
+    </style>
+</head>
+<body>
+<form id="codeform" onsubmit="return load_render();">
+    <label for="code">Enter your HTML Code here:</label><br>
+    <textarea id="code" form="codeform"></textarea><br>
+    <input type="submit">
+</form><br>
+<img id="render" src="">
+</body>
+</html>

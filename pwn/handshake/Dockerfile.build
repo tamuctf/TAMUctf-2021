@@ -1,0 +1,8 @@
+FROM debian:bullseye-slim as build
+
+RUN apt-get update -y
+RUN apt-get install build-essential gcc-multilib  -y
+ADD handshake.c /opt/build/handshake.c
+WORKDIR /opt/build
+
+ENTRYPOINT ["gcc"]
